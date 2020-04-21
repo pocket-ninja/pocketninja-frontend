@@ -110,7 +110,7 @@
 
 @media (min-width: 600px) {
   .landing {
-    height: 100vh;
+    height: calc(100vh - env(safe-area-inset-bottom));
     min-height: 550px;
     min-width: 600px;
 
