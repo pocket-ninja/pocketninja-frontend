@@ -1,27 +1,42 @@
 ---
 layout: base
 ---
-<div class="wrapper">
-    <header>
-        {% if site.compass.logo %}
-        <div class="logo-container">
-          <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
-        </div>
-        {% endif %}
 
-        {% if site.compass.author %}
-        <div class="author-container"><h1>{{ site.compass.author }}</h1></div>
-        {% endif %}
+<div class="landing">
+  <div class="landing__header">
+    <a href="/">
+      <img class="landing__header--img" src="/assets/ninja_logo.png" alt="Logo">
+    </a>
+  </div>
 
-        {% if site.compass.tagline %}
-        <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
-        {% endif %}
-    </header>
-    <main>
-      {% if site.compass.include_content %}
-      <div class="content">
-        {% include content.html %}
-      </div>
-      {% endif %}
-    </main>
+  <div class="landing__content">
+    <p class="landing__content--title">Silently killing with awesome Apps</p>
+    <p class="landing__content--subtitle">
+      We are an indie software studio located at the heart of Europe. Tiny but capable as we're here to amaze.
+    </p>
+  </div>
+
+  <div class="landing__navigation">
+    <nav class="landing__navigation--list">
+      <a class="landing__navigation--item" href="/tos">Terms of Service</a>
+      <a class="landing__navigation--item" href="/pp">Privacy Policy</a>
+      <a class="landing__navigation--item" href="mailto:hello@pocketninja.dev">Contact Us</a>
+    </nav>
+  </div>
+
+  <div class="landing__social">
+    <nav class="landing__social--list">
+      <a href="https://www.instagram.com/pocket_nindza/">
+        <img class="landing__social--icon" src="/assets/instagram.png" alt="Instragram Logo">
+      </a>
+
+      <a href="https://twitter.com/pocket_nindza">
+        <img class="landing__social--icon" src="/assets/twitter.png" alt="Twitter Logo">
+      </a>
+
+      <a href="https://www.facebook.com/pocketnindza/">
+        <img class="landing__social--icon" src="/assets/facebook.png" alt="Facebook Logo">
+      </a>
+    </nav>
+  </div>
 </div>
