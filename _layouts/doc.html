@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
+  <style type="text/css">
+    body {
+      overflow: auto;
+    }
+  </style>
   <body>
-    
-    {% if site.compass.logo and site.compass.author %}
-      <div class="doc-logo-container">
-        <a href="{{ site.baseurl }}/">
-          <img class="doc-logo" src="{{ site.baseurl }}{{ site.compass.logo }}">
-          <h1 class="doc-logo-author" >{{ site.compass.author }}</h1>
-        </a>
-      </div>
-    {% endif %}
-
+    <div class="doc__header">
+      <a href="/">
+        <img class="doc__header--img" src="/assets/ninja_logo.png" alt="Logo">
+      </a>
+    </div>
 
     <div class="doc">
       {{ content }}
