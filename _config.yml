@@ -1,9 +1,9 @@
 # general configuration
 url: https://pocketninja.dev
-baseurl: ''
-author: 'Pocket Ninja'
-description: 'Home of Pocket Apps LLC'
-copyright: 'Pocket Apps LLC'
+baseurl: ""
+author: "Pocket Ninja"
+description: "Home of Pocket Apps LLC"
+copyright: "Pocket Apps LLC"
 logo: "/assets/logo.png"
 
 # Assets
@@ -25,3 +25,4 @@ kramdown:
 # Routing
 include:
   - _redirects
+  - app-ads.txt
