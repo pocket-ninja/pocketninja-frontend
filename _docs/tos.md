@@ -1,19 +1,19 @@
 ---
-permalink: /tos/
-layout: doc
+slug: tos
+title: Terms of Use
 ---
 
 # Terms of Use
 
-### Introduction and Acceptance
+## Introduction and Acceptance
 
 Pocket Apps LLC (“we”, “us” and “our”) offers you access to its interactive online websites, applications and services. These Terms of Use, and any additional terms which might apply to certain products or services, govern your use of our websites (“Website”) or any of our widgets or other applications (“Applications”) – together, our “Services”. Our Services include <https://pocketninja.dev/> and all other locations on which we place these Terms of Use. PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING OUR SERVICES. BY USING ANY OF OUR SERVICES (OTHER THAN TO READ THESE TERMS OF USE FOR THE FIRST TIME) YOU ARE AGREEING TO COMPLY WITH THESE TERMS OF USE, WHICH MAY CHANGE FROM TIME TO TIME AS SET FORTH IN SECTION TITLED “AMENDMENTS; ADDITIONAL TERMS”. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS OF USE, DO NOT USE OUR SERVICES.
 
-### Intellectual Property
+## Intellectual Property
 
 Our Services and associated content (and any derivative works or enhancements of the same) including, but not limited to, all artwork, text, illustrations, files, images, software, scripts, graphics, photos, sounds, music, videos, information, content, materials, products, services, URLs, technology, documentation, and interactive features included with or available through our Services (collectively, the “Service Content”) and all intellectual property rights to the same are owned by us, our licensors, or both. Additionally, all trademarks, service marks, trade names and trade dress that may appear in our Services are owned by us, our licensors, or identified third parties. Except for the limited use rights granted to you in these Terms of Use, you shall not acquire any right, title or interest in our Services or any Service Content. Any rights not expressly granted in these Terms of Use are expressly reserved.
 
-### Access and Use
+## Access and Use
 
 * Our Services are provided for your personal, non-commercial use only. We may offer certain portions of our Services at no charge and others for a one-time fee, on a subscription basis or under any other lawful pricing structure. In all instances, our Services are not being sold to you; rather, you are being granted or purchasing a limited license to use our Services. In addition, unless we specifically tell you otherwise, the use of any of our paid Services does not transfer across operating systems and/or different equipment (e.g., mobile devices, computers, etc.). For example, unless we specifically tell you otherwise, the use of our mobile Application is limited to the relevant device and/or operating system you are using at the time you purchase a license to use the Application.
 
@@ -45,7 +45,7 @@ Our Services and associated content (and any derivative works or enhancements of
 
 * You agree to fully cooperate with us to investigate any suspected or actual activity that is in breach of these Terms of Use.
 
-### Service Content & Third Party Links
+## Service Content & Third Party Links
 
 * We provide our Services including, without limitation, Service Content for educational, entertainment and/or promotional purposes only. You may not rely on any information and opinions expressed through any of our Services for any other purpose. In all instances, it is your responsibility to evaluate the accuracy, timeliness, completeness, or usefulness of any Service Content. Under no circumstances will we be liable for any loss or damage caused by your reliance on any Service Content.
 
@@ -53,11 +53,11 @@ Our Services and associated content (and any derivative works or enhancements of
 
 * Our Services may link or contain links to other websites maintained by third parties. We do not operate or control, in any respect, or necessarily endorse the content found on these third-party websites. You assume sole responsibility for your use of third-party links. We are not responsible for any content posted on third-party websites or liable to you for any loss or damage of any sort incurred as a result of your dealings with any third-party or their website.
 
-### Indemnification
+## Indemnification
 
 You agree to indemnify and hold harmless Pocket Apps LLC and its officers, directors, employees, parents, partners, successors, agents, distribution partners, affiliates, subsidiaries, and their related companies from and against any and all claims, liabilities, losses, damages, obligations, costs and expenses (including reasonable attorneys’ fees and costs) arising out of, related to, or that may arise in connection with: (i) your use of our Services; (ii) User Content provided by you or through use of your Membership; (iii) any actual or alleged violation or breach by you of these Terms of Use; (iv) any actual or alleged breach of any representation, warranty, or covenant that you have made to us; or (v) your acts or omissions. You agree to cooperate fully with us in the defense of any claim that is the subject of your obligations hereunder.
 
-### Disclaimer of Warranties
+## Disclaimer of Warranties
 
 YOU EXPRESSLY AGREE THAT USE OF OUR SERVICES IS AT YOUR SOLE RISK. OUR SERVICES AND SERVICE CONTENT (INCLUDING SOFTWARE) ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. WITHOUT LIMITING THE FOREGOING AND TO THE FULLEST EXTENT PERMITTED BY LAW, POCKET APPS LLC AND ITS OFFICERS, DIRECTORS, EMPLOYEES, PARENTS, PARTNERS, SUCCESSORS, AGENTS, DISTRIBUTION PARTNERS, AFFILIATES, SUBSIDIARIES, AND THEIR RELATED COMPANIES DISCLAIM ANY AND ALL WARRANTIES INCLUDING ANY:
 
@@ -75,7 +75,7 @@ YOU EXPRESSLY AGREE THAT USE OF OUR SERVICES IS AT YOUR SOLE RISK. OUR SERVICES 
 
 * WARRANTIES THAT ERRORS IN OUR SERVICES OR SERVICE CONTENT (INCLUDING SOFTWARE) WILL BE CORRECTED.
 
-### Limitation on Liability
+## Limitation on Liability
 
 * UNDER NO CIRCUMSTANCES SHALL POCKET APPS LLC OR ITS OFFICERS, DIRECTORS, EMPLOYEES, PARENTS, PARTNERS, SUCCESSORS, AGENTS, DISTRIBUTION PARTNERS, AFFILIATES, SUBSIDIARIES, OR THEIR RELATED COMPANIES BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES (EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), ARISING OUT OF, RELATING TO, OR IN ANY WAY CONNECTED WITH OUR SERVICES OR THESE TERMS OF USE. YOUR SOLE REMEDY FOR DISSATISFACTION WITH OUR SERVICES INCLUDING, WITHOUT LIMITATION, SERVICE CONTENT IS TO STOP USING OUR SERVICES. SUCH LIMITATION SHALL ALSO APPLY WITH RESPECT TO DAMAGES INCURRED BY REASON OF GOODS RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH OUR SERVICES OR ANY LINKS PLACED IN OUR SERVICES, AS WELL AS BY REASON OF ANY INFORMATION OR ADVICE RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH OUR SERVICES OR ANY LINKS PLACED IN OUR SERVICES. SUCH LIMITATION SHALL ALSO APPLY WITH RESPECT TO DAMAGES INCURRED BY REASON OF ANY CONTENT POSTED BY A THIRD PARTY OR CONDUCT OF A THIRD PARTY USING OUR SERVICES.
 
@@ -83,13 +83,13 @@ YOU EXPRESSLY AGREE THAT USE OF OUR SERVICES IS AT YOUR SOLE RISK. OUR SERVICES 
 
 * In some jurisdictions limitations of liability are not permitted. In such jurisdictions, some of the foregoing limitations may not apply to you. These limitations shall apply to the fullest extent permitted by law.
 
-### Termination
+## Termination
 
 * We reserve the right in our sole discretion and at any time to terminate or suspend your Membership and/or block your use of our Services for any reason including, without limitation if you have failed to comply with the letter and spirit of these Terms of Use. You agree that Pocket Apps LLC is not liable to you or any third party for any termination or suspension of your Membership or for blocking your use of our Services.
 
 * Any suspension or termination shall not affect your obligations to us under these Terms of Use. The provisions of these Terms of Use which by their nature should survive the suspension or termination of your Membership or these Terms of Use shall survive including, but not limited to the rights and licenses that you have granted hereunder, indemnities, releases, disclaimers, limitations on liability, provisions related to choice of law, and all of the provisions in the Section titled “MISCELLANEOUS”.
 
-### Copyright Policy
+## Copyright Policy
 
 * We respect the intellectual property rights of others and expect users to do the same. In appropriate circumstances and at our sole discretion, we may terminate and/or disable the Membership of users suspected to be infringing the copyrights (or other intellectual property rights) of others. Additionally, in appropriate circumstances and in our sole discretion, we may remove or disable access to material on any of our websites or hosted on our systems that may be infringing or the subject of infringing activity.
 
@@ -107,11 +107,11 @@ YOU EXPRESSLY AGREE THAT USE OF OUR SERVICES IS AT YOUR SOLE RISK. OUR SERVICES 
 
   * A statement that the information in the notice is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. We will investigate notices of copyright infringement and take appropriate actions under the DMCA. Inquiries that do not follow this procedure may not receive a response.
 
-### Choice of Law; Jurisdiction and Venue
+## Choice of Law; Jurisdiction and Venue
 
 These Terms of Use shall be construed in accordance with the laws of Belarus without regard to its conflict of laws rules. Any legal proceedings against Pocket Apps LLC that may arise out of, relate to, or be in any way connected with our Website or these Terms of Use shall be brought exclusively in the state and federal courts of Belarus and you waive any jurisdictional, venue, or inconvenient forum objections to such courts.
 
-### Dispute Resolution and Mandatory Arbitration
+## Dispute Resolution and Mandatory Arbitration
 
 * We each agree to first contact each other with any disputes and provide a written description of the problem, all relevant documents/information and the proposed resolution. You agree to contact us with disputes by contacting us at the address provided in these Terms of Use. We will contact you based on the contact information you have provided us.
 
@@ -123,21 +123,21 @@ These Terms of Use shall be construed in accordance with the laws of Belarus wit
 
 * Exception to Arbitrate. Either of us may bring qualifying claims in small claims court. Further, as set forth below, we each agree that any arbitration will be solely between you and Pocket Apps LLC, not as part of a classwide claim (i.e., not brought on behalf of or together with another individual’s claim). If for any reason any court or arbitrator holds that this restriction is unconscionable or unenforceable, then our agreement to arbitrate doesn’t apply and the classwide dispute must be brought in court.
 
-### No Class Actions
+## No Class Actions
 
 TO THE EXTENT ALLOWED BY LAW, WE EACH WAIVE ANY RIGHT TO PURSUE DISPUTES ON A CLASSWIDE BASIS; THAT IS, TO EITHER JOIN A CLAIM WITH THE CLAIM OF ANY OTHER PERSON OR ENTITY, OR ASSERT A CLAIM IN A REPRESENTATIVE CAPACITY ON BEHALF OF ANYONE ELSE IN ANY LAWSUIT, ARBITRATION OR OTHER PROCEEDING.
 
-### No Trial by Jury
+## No Trial by Jury
 
 TO THE EXTENT ALLOWED BY LAW, WE EACH WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY LAWSUIT, ARBITRATION OR OTHER PROCEEDING.
 
-### Amendment; Additional Terms
+## Amendment; Additional Terms
 
 * We reserve the right in our sole discretion and at any time and for any reason, to modify or discontinue any aspect or feature of our Services or to modify these Terms of Use. In addition, we reserve the right to provide you with operating rules or additional terms that may govern your use of our Services generally, unique of our Services, or both (“Additional Terms”). Any Additional Terms that we may provide to you will be incorporated by reference into these Terms of Use. To the extent any Additional Terms conflict with these Terms of Use, the Additional Terms will control.
 
 * Modifications to these Terms of Use or Additional Terms will be effective immediately upon notice, either by posting on the Website, notification by email or through any of our Applications. It is your responsibility to review the Terms of Use from time to time for any changes or Additional Terms. Your access and use of our Services following any modification of these Terms of Use or the provision of Additional Terms will signify your assent to and acceptance of the same. If you object to any subsequent revision to the Terms of Use or to any Additional Terms, immediately discontinue use of our Services and, if applicable, terminate your Membership
 
-### Miscellaneous
+## Miscellaneous
 
 * No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. The section headings used herein are for convenience only and shall not be given any legal import.
 
@@ -147,6 +147,6 @@ TO THE EXTENT ALLOWED BY LAW, WE EACH WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY LA
 
 * You may not assign these Terms of Use or assign any rights or delegate any obligations hereunder, in whole or in part, without our prior written consent. Any such purported assignment or delegation by you without the appropriate prior written consent will be null and void and of no force and effect. We may assign these Terms of Use or any rights hereunder without your consent and without notice.
 
-### Contact Information
+## Contact Information
 
 POCKET APPS LLC is registered at prospekt Dzerzhinskogo 3B-58, 6th floor, Minsk, Belarus. If you have any questions or concerns about our Terms of Use, please contact us at <hello@pocketninja.dev>

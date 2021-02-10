@@ -1,11 +1,11 @@
 ---
-permalink: /pp/
-layout: doc
+slug: pp
+title: Privacy Policy
 ---
 
 # Privacy Policy
 
-#### Effective Date: March 30, 2020
+Effective Date: March 30, 2020
 
 Please read this Privacy Policy carefully to understand our policies and practices regarding your Personal Data (as defined below) and how we will treat it.
 
@@ -21,7 +21,7 @@ By using our Services you agree to our Privacy Policy and confirm that you are a
 
 While using our Services, we may ask you to provide us with certain personally identifiable information that can be used to identify you ("Personal Data"). Our Services are designed to avoid collecting information such as your name, address, email address or other similar contact data unless you provide such data to us. The information we collect include:
 
-* Automatically collected data (such as IP Address, your device’s operating system, browser type and language)
+* Automatically collected data (such as IP Address, your device's operating system, browser type and language)
 
 * Mobile device identifiers (such as your unique device ID (persistent/non-persistent), IDFA (Identifier for advertisers), hardware type
 
@@ -33,7 +33,7 @@ While using our Services, we may ask you to provide us with certain personally i
 
 ### How We Use Your Information
 
-Pocket Apps LLC’s primary goals in using information are to provide Services to you, improve our Service, contact you, conduct marketing and research and create reports for internal use. We store information on servers located in the United States via Amazon Web Services and may store information on servers and equipment in other countries.
+Pocket Apps LLC's primary goals in using information are to provide Services to you, improve our Service, contact you, conduct marketing and research and create reports for internal use. We store information on servers located in the United States via Amazon Web Services and may store information on servers and equipment in other countries.
 
 We collect information automatically about your activity through our Services, for example date and time you used a service, features you have used, in-app purchase history, subscriptions, and advertising that you click on, and data generated when you use our Services, for example your game progress which may be stored with your Apple ID on iCloud for iOS Devices in some of our Services. Our Services may also contain tools from third party service providers that may enable these third parties to separately collect and/or analyze non-Personal Data from the users' devices.
 
@@ -67,11 +67,11 @@ We may receive information about you from our analytics service providers with d
 
 ### Tracking and Data Collection Technologies
 
-We and our marketing and outsourcing partners, affiliates, or analytics service providers use technologies such as cookies, beacons, scripts, and tags to identify a user’s computer/device and to "remember" things about your visit, such as your preferences or a user name and password. Information contained in a cookie may be linked to your personal information, such as your user ID, for purposes such as improving the quality of our Services, tailoring recommendations to your interests, and making the Service easier to use. You can disable cookies at any time.
+We and our marketing and outsourcing partners, affiliates, or analytics service providers use technologies such as cookies, beacons, scripts, and tags to identify a user's computer/device and to "remember" things about your visit, such as your preferences or a user name and password. Information contained in a cookie may be linked to your personal information, such as your user ID, for purposes such as improving the quality of our Services, tailoring recommendations to your interests, and making the Service easier to use. You can disable cookies at any time.
 
 ### Website Services
 
-While you are browsing the Sites, your computer’s operating system, Internet Protocol (IP) address, access times, browser type and language and referring Web site addresses may be logged automatically. We may use this information to monitor, develop and analyse your use of the Service.
+While you are browsing the Sites, your computer's operating system, Internet Protocol (IP) address, access times, browser type and language and referring Web site addresses may be logged automatically. We may use this information to monitor, develop and analyse your use of the Service.
 
 We may use your email address to contact you about your experience with the Services and notify you about Pocket Apps LLC news and promotions.
 
@@ -161,7 +161,7 @@ In some cases, we may notify you of changes to this Privacy Policy with a promin
 
 ## APPENDIX A: Analytics and Other Service Providers
 
-We use your information to perform our own analytics and to enable analytics provided by third parties and other essential functions. We use analytical information for supporting business analysis and operations, business intelligence, product development, improving the Services, personalizing content, providing advertising, and making recommendations. In order to learn about how your information is used by our analytics service providers, you can follow the hyperlinks in the list below to each provider’s privacy notice.
+We use your information to perform our own analytics and to enable analytics provided by third parties and other essential functions. We use analytical information for supporting business analysis and operations, business intelligence, product development, improving the Services, personalizing content, providing advertising, and making recommendations. In order to learn about how your information is used by our analytics service providers, you can follow the hyperlinks in the list below to each provider's privacy notice.
 
 #### Appsflyer
 
