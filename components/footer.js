@@ -10,7 +10,7 @@ export default function Footer() {
             <h2 className="text-xs font-semibold tracking-wide text-gray-900 uppercase">Legal</h2>
             <ul className="space-y-4">
               <li>
-                <Link className="hover:text-gray-900 transition-colors duration-200" href="/tos">Terms Of Use</Link>
+                <Link className= "hover:text-gray-900 transition-colors duration-200" href="/tos">Terms Of Use</Link>
               </li>
               <li>
                 <Link className="hover:text-gray-900 transition-colors duration-200" href="/pp">Privacy Policy</Link>
