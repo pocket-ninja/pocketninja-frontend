@@ -1,13 +1,24 @@
+# Personal
+# AdMob
+google.com, pub-2282926463385052, DIRECT, f08c47fec0942fa0
+google.com, pub-1680034082323710, DIRECT, f08c47fec0942fa0
+# Facebook
+facebook.com, 487642202583702, RESELLER, c3e20eee3f780d68
+facebook.com, 210590296715919, RESELLER, c3e20eee3f780d68
+# IronSource
+ironsrc.com, 290619, Direct
+# Vungle
+vungle.com, 6203985001fa710014f2927e, DIRECT, c107d686becd2d77
+# Tapjoy
+tapjoy.com, 0334ecebbdb747618bda71bea8321fd4, DIRECT, 29e595b1aeb5904d
+# InMobi
+inmobi.com,fe6dede7c4614ffe84ecb559f52d8891,DIRECT,83e75a7ae333ca9
+
 #Updated December 10rd, 2021
 #Appodeal
 appodeal.com, 95141, RESELLER
 #BidMachine
 bidmachine.io, 95141, RESELLER
-#AdMob
-google.com, pub-1680034082323710, DIRECT, f08c47fec0942fa0
-#Facebook
-#Replace the Business ID below with your Facebook Business ID
-facebook.com, 210590296715919, RESELLER, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
