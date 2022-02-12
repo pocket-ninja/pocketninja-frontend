@@ -13,6 +13,8 @@ vungle.com, 6203985001fa710014f2927e, DIRECT, c107d686becd2d77
 tapjoy.com, 0334ecebbdb747618bda71bea8321fd4, DIRECT, 29e595b1aeb5904d
 # InMobi
 inmobi.com,fe6dede7c4614ffe84ecb559f52d8891,DIRECT,83e75a7ae333ca9
+# Pangle Global
+pangleglobal.com, 5002191, DIRECT
 
 #Updated December 10rd, 2021
 #Appodeal
