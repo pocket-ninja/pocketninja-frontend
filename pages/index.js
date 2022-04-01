@@ -25,7 +25,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <script data-ad-client="ca-pub-1680034082323710" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     
-    <!-- Meta Pixel Code -->
+// Meta Pixel Code
 <script>
   !function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -41,7 +41,7 @@ export default function Home() {
 <noscript><img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=1295075370978677&ev=PageView&noscript=1"
 /></noscript>
-<!-- End Meta Pixel Code -->
+// End Meta Pixel Code
   
       </Head>
 
