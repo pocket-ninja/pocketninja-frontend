@@ -1,12 +1,12 @@
 {
   "name": "pocket-ninja-site",
-  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start",
     "export": "next export",
+    "lint": "next lint",
     "deploy": "npm run build && npm run export"
   },
   "dependencies": {
@@ -23,5 +23,9 @@
     "remark-parse": "^9.0.0",
     "tailwindcss": "^2.2.19",
     "unified": "^9.2.0"
+  },
+  "devDependencies": {
+    "eslint": "7",
+    "eslint-config-next": "12.0.2"
   }
 }
