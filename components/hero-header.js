@@ -89,7 +89,7 @@ export default function HeroHeader() {
                 <span className="block text-indigo-600 xl:inline"> always deliver</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                We are an indie software studio located at the heart of Europe. Tiny but capable as we're here to amaze.
+                We are an indie software studio located at the heart of Europe. Tiny but capable as we&apos;re here to amaze.
               </p>
             </div>
           </div>
