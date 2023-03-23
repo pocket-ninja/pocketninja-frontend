@@ -53,6 +53,8 @@ Our Services and associated content (and any derivative works or enhancements of
 
 * Our Services may link or contain links to other websites maintained by third parties. We do not operate or control, in any respect, or necessarily endorse the content found on these third-party websites. You assume sole responsibility for your use of third-party links. We are not responsible for any content posted on third-party websites or liable to you for any loss or damage of any sort incurred as a result of your dealings with any third-party or their website.
 
+* Our services may use Youtube API Services, therefore you are agreeing to be bound by the YouTube's Terms of Service: <https://www.youtube.com/t/terms/>
+
 ## Indemnification
 
 You agree to indemnify and hold harmless Pocket Apps LLC and its officers, directors, employees, parents, partners, successors, agents, distribution partners, affiliates, subsidiaries, and their related companies from and against any and all claims, liabilities, losses, damages, obligations, costs and expenses (including reasonable attorneys’ fees and costs) arising out of, related to, or that may arise in connection with: (i) your use of our Services; (ii) User Content provided by you or through use of your Membership; (iii) any actual or alleged violation or breach by you of these Terms of Use; (iv) any actual or alleged breach of any representation, warranty, or covenant that you have made to us; or (v) your acts or omissions. You agree to cooperate fully with us in the defense of any claim that is the subject of your obligations hereunder.

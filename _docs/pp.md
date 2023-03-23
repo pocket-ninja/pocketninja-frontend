@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-Effective Date: March 30, 2020
+Effective Date: March 23, 2023
 
 Please read this Privacy Policy carefully to understand our policies and practices regarding your Personal Data (as defined below) and how we will treat it.
 
@@ -135,7 +135,7 @@ We may transfer information that we collect about you to affiliated entities, or
 
 ### Third Party Services
 
-Our Services may contain third party tracking and data collection and analytics tools from our service providers, examples of which include Firebase, Amplitude Analytics, Appsflyer. A list of the third parties that operate in our Services can be found in the Appendix A below. Such third parties may use cookies, APIs, and SDKs in our Services to enable them to collect and analyze user and device related data and information on our behalf. The third parties may have access to and collect data and information about you, such as your device identifier, IDFA (Identifier for advertisers), locale (specific location where a given language is spoken), geo-location information, IP address, application usage, access and session times, applications present on the device or in use at a particular time on the device, and your viewing of and interactions with advertising, for the purpose of providing their services, including, for example, enabling, providing and delivering advertising as described in further detail below. The privacy policies of our service providers may include additional terms and disclosures regarding their data collection and use practices and tracking technologies, and we encourage you to check those privacy policies to learn more about their data collection and use practices, use of cookies and other similar tracking technologies.
+Our Services may contain third party tracking, data sources, data collection and analytics tools from our service providers, examples of which include Firebase, YouTube, Amplitude Analytics, Appsflyer, Tenjin. A list of the third parties that operate in our Services can be found in the Appendix A below. Such third parties may use cookies, APIs, and SDKs in our Services to enable them to collect and analyze user and device related data and information on our behalf. The third parties may have access to and collect data and information about you, such as your device identifier, IDFA (Identifier for advertisers), locale (specific location where a given language is spoken), geo-location information, IP address, application usage, access and session times, applications present on the device or in use at a particular time on the device, and your viewing of and interactions with advertising, for the purpose of providing their services, including, for example, enabling, providing and delivering advertising as described in further detail below. The privacy policies of our service providers may include additional terms and disclosures regarding their data collection and use practices and tracking technologies, and we encourage you to check those privacy policies to learn more about their data collection and use practices, use of cookies and other similar tracking technologies.
 
 ### How We May Disclose Your Information to Third Parties
 
@@ -163,31 +163,40 @@ In some cases, we may notify you of changes to this Privacy Policy with a promin
 
 We use your information to perform our own analytics and to enable analytics provided by third parties and other essential functions. We use analytical information for supporting business analysis and operations, business intelligence, product development, improving the Services, personalizing content, providing advertising, and making recommendations. In order to learn about how your information is used by our analytics service providers, you can follow the hyperlinks in the list below to each provider's privacy notice.
 
-#### Appsflyer
+### Appsflyer
 
 Appsflyer is an analytics service provided by Appsflyer Ltd (Israel)
 
 Privacy Policy: <https://www.appsflyer.com/privacy-policy/>
 
-#### Facebook Ads Conversion
+### Facebook Ads Conversion
 
 Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. (US) that connects data from the Facebook advertising network with actions performed on this Application.
 
 Privacy Policy: <https://www.facebook.com/about/privacy/>
 
-#### Facebook Analytics
+### Facebook Analytics
 
 Facebook Analytics is an analytics tool provided by Facebook, Inc. (US) that may collect or receive information from our apps and other apps and use that information to provide measurement services.
 
 Privacy Policy: <https://www.facebook.com/about/privacy/>
 
-#### Firebase
+### Firebase
 
 Firebase is an analytics service provided by Google Inc. (US)
-You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: <http://www.google.com/intl/en/policies/privacy/>
+You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: <http://www.google.com/policies/privacy/>
 
-#### Tenjin
+### Tenjin
 
 Tenjin is an analytics service provided by Tenjin Inc. (US)
 
 Privacy Policy: <https://www.tenjin.io/privacy>
+
+
+### YouTube API Services
+
+YouTube API provides the ability to retrieve feeds related to videos, users, and playlists.
+
+YouTube's Terms of Service: <https://www.youtube.com/t/terms/>\
+Google Privacy Policy: <http://www.google.com/policies/privacy/>
+
