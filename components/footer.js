@@ -21,6 +21,9 @@ export default function Footer() {
             <h2 id="contacts" className="text-xs font-semibold tracking-wide text-gray-900 uppercase">Contacts</h2>
             <ul className="space-y-4">
               <li>
+                <a className="hover:text-gray-900 transition-colors duration-200" href="/support">Support</a>
+              </li>
+              <li>
                 <a className="hover:text-gray-900 transition-colors duration-200" href="https://www.instagram.com/pocket_nindza/">Instagram</a>
               </li>
               <li>
@@ -31,9 +34,6 @@ export default function Footer() {
               </li>
               <li>
                 <a className="hover:text-gray-900 transition-colors duration-200" href="https://github.com/pocket-ninja">GitHub</a>
-              </li>
-              <li>
-                <a className="hover:text-gray-900 transition-colors duration-200" href="mailto:hello@pocketninja.dev">Send E-Mail</a>
               </li>
             </ul>
           </li>
