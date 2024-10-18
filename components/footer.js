@@ -21,7 +21,9 @@ export default function Footer() {
             <h2 id="contacts" className="text-xs font-semibold tracking-wide text-gray-900 uppercase">Contacts</h2>
             <ul className="space-y-4">
               <li>
-                <a className="hover:text-gray-900 transition-colors duration-200" href="/support">Support</a>
+                <Link href="/support">
+                  <a className="hover:text-gray-900 transition-colors duration-200">Support</a>
+                </Link>
               </li>
               <li>
                 <a className="hover:text-gray-900 transition-colors duration-200" href="https://www.instagram.com/pocket_nindza/">Instagram</a>
