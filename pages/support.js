@@ -8,7 +8,7 @@ export default function Support() {
     const data = new FormData(event.currentTarget);
     const body = encodeURIComponent(data.get("body"));
     const subject = encodeURIComponent(data.get("subject"));
-    const url = `mailto:hello@pocketninja.dev?body=${body}&subject=${subject}`;
+    const url = `mailto:hello@pocketninja.dev?body=${body}&subject=${subject} contact-us-form`;
     window.open(url);
   }
 
