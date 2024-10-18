@@ -7,7 +7,7 @@ export default function Footer() {
         <ul
           className="text-sm font-medium pb-14 sm:pb-20 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-y-10">
           <li className="space-y-5 row-span-2">
-            <h2 className="text-xs font-semibold tracking-wide text-gray-900 uppercase">Legal</h2>
+            <h2 className="text-xs font-semibold tracking-wide text-gray-500 uppercase">Legal</h2>
             <ul className="space-y-4">
               <li>
                 <Link className= "hover:text-gray-900 transition-colors duration-200" href="/tos">Terms Of Use</Link>
@@ -18,7 +18,7 @@ export default function Footer() {
             </ul>
           </li>
           <li className="space-y-5">
-            <h2 id="contacts" className="text-xs font-semibold tracking-wide text-gray-900 uppercase">Contacts</h2>
+            <h2 id="contacts" className="text-xs font-semibold tracking-wide text-gray-500 uppercase">Contacts</h2>
             <ul className="space-y-4">
               <li>
                 <Link href="/support">
